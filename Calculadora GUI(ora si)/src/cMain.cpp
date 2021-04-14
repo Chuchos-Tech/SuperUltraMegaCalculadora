@@ -251,7 +251,6 @@ void cMain::boton_presionado0(wxCommandEvent& evt){
 }
 void cMain::boton_presionadoMenos(wxCommandEvent& evt){
     m_btn4_1 -> Disable();
-    m_btn4_5 -> Disable();
     m_txt1 -> AppendText("-");
     m_btn4_3 -> Enable();
 }
