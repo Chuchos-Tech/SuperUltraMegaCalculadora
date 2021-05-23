@@ -1,2 +1,0 @@
-IDoperacion == CLVelF || //r2, u1
-IDoperacion == CLAlt //r2, u1
