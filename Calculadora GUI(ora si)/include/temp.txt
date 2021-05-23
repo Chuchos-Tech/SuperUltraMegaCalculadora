@@ -1,0 +1,5 @@
+IDoperacion == LGUFr ||
+IDoperacion == LGUMa ||
+IDoperacion == LGUDis ||
+IDoperacion == NotPot ||
+IDoperacion == OndasVel //r3, u2
